@@ -1,0 +1,67 @@
+mutable: mutable is nothing we can change  same object reference
+
+immutable: immutable is nothing we can not change  the  object reference
+
+Type: Type is used which data type the value is belong to 
+
+Numeric Data Types
+
+1.Int
+2.float:
+3.complex:complex is a combination of imaginary part
+->it is used in images 
+c=12+4j
+
+sequence datatype
+
+1.string:string is a collection of characters enclosed with '' ""
+Properties
+->it is immutable once it is created not be changed
+->it allow duplicates
+ex: product names, application names
+
+2.list:list is a collection enclosed with [ ] 
+Properties:
+->list is mutable
+->list contains duplicates
+->list is dynamically sized
+->list is ordered 
+->list is heterogenous
+
+3.tuple:it is also collection of elements enclosed with ( )
+Properties:
+->it is immutable
+->it is ordered
+->it is fixed size
+->it is heterogenous
+->it allows duplicates
+
+Mapping Data types
+
+1.sets: set is a unordered collection of elements enclosed with { }
+Properties:
+->it doesn't allow duplicates
+->set is mutable
+->dynamically typed
+->it is heterogenous 
+->it is unordered
+2.Dictonary: It is a collection of a key value pairs enclosed with { }
+Properties:
+->ordered 
+->mutable
+->heterogenous
+->dynamically sized
+3.frozen set :once they created they cannot be changed
+
+Boolean: it used to check the true or false 0(or)1
+
+None data type
+It is is used to create a empty datatype 
+
+Type Conversion
+converting the value from one data in to another datatype 
+
+1.implict type conversations
+it happens automatically
+2.explict type conversations
+convert using the data types is called type conversations
