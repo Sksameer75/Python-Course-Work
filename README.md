@@ -50,7 +50,8 @@ Python Full Stack Development
 | Day 6  | Python Strings             | ✅ Completed    |
 | Day 7  | Python Lists               | ✅ Completed    |
 | Day 8  | Python Tuples and Sets     | ✅ Completed    |
-| Day 9  | Continuing........         | 🔄 In Progress  |
+| Day 9  | Python Dictionaries        | ✅ Completed    |
+| Day 10 | Continuing........        | 🔄 In Progress  |
 
 > This table will be updated as I progress through my training.
 
