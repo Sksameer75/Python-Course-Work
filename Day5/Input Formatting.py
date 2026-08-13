@@ -1,22 +1,12 @@
 Python 3.12.1 (tags/v3.12.1:2305ca5, Dec  7 2023, 22:03:25) [MSC v.1937 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 a=input()
-narayana
+sameer
 a
-'narayana'
-a=(int(input()
-       80
-       
-SyntaxError: '(' was never closed
-a=(int(input())
-   80
-   
-SyntaxError: '(' was never closed
-a=int(input())
-   
+'sameer'
+a=(int(input())   
 55
-a
-   
+a 
 55
 b=int(input())
    
@@ -27,14 +17,13 @@ b
 f=float(input())
    
 67.4
-f
-   
+f 
 67.4
-names="narayana","thota"
+names="sameer","basha"
    
 list(names)
    
-['narayana', 'thota']
+['sameer', 'basha']
 name="narayana"
    
 list(name)
@@ -78,7 +67,7 @@ name.split()
 Traceback (most recent call last):
   File "<pyshell#26>", line 1, in <module>
     name.split()
-AttributeError: 'list' object has no attribute 'split'
+AttributeError: 'list' object has no attribute 'split''''
 courses.split()
    
 ['python', 'reasoning', 'softskills']
