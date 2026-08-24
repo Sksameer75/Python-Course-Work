@@ -38,25 +38,6 @@ Python Full Stack Development
 
 ---
 
-## 📚 Daily Learning Progress
-
-| Day    | Topics Covered             | Status         |
-| ------ | -------------------------- | -------------- |
-| Day 1  | Python fundamentals        | ✅ Completed    |
-| Day 2  | Python Tokens & Keywords   | ✅ Completed    |
-| Day 3  | Python Data Types          | ✅ Completed    |
-| Day 4  | Operators & O/p Formatting | ✅ Completed    |
-| Day 5  | Python Input Formatting    | ✅ Completed    |
-| Day 6  | Python Strings             | ✅ Completed    |
-| Day 7  | Python Lists               | ✅ Completed    |
-| Day 8  | Python Tuples and Sets     | ✅ Completed    |
-| Day 9  | Python Dictionaries        | ✅ Completed    |
-| Day 10 | Continuing........        | 🔄 In Progress  |
-
-> This table will be updated as I progress through my training.
-
----
-
 ## 🛠️ Technologies & Tools
 
 ### Programming Language
