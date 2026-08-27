@@ -1,0 +1,10 @@
+Funtions in Python:
+A function is a reusable block of code designed to perform a specific task. It can accept inputs through
+parameters, process them, and optionally return a result.
+
+1.Code reusability – Write once, use multiple times.
+2.Avoid code duplication – Prevent repeating the same logic.
+3.Modularity – Divide a large program into smaller tasks.
+4.Readability – Makes code easier to understand.
+5.Debugging – Errors can be isolated to individual functions.
+6.Testing – Functions can be tested independently.
