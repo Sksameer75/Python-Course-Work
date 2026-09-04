@@ -66,7 +66,7 @@ seats = {'s1':True,
          's3':True,
          's4':False,
          's5':True,
-         's6':True,
+         's6':False,
          }
 
 avail = list(filter(lambda i:seats[i]==True,seats))
