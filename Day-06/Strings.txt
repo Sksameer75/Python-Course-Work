@@ -1,0 +1,11 @@
+string:
+string is a collection of characters
+
+string operation
+1.repetation
+2.concatenation
+3.slicing
+4.indexing
+5.membersip
+it is nothing but extracting the sub part of the lst
+syntax:  var[start,stop+1,step]
